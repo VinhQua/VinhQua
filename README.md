@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I do my experiments on JavaScript and its endless of frameworks.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinhqua-full-stack-developer/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VinhQua-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinhqua-full-stack-developer/)
   
 ---
 
