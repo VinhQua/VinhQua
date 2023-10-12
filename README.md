@@ -22,5 +22,13 @@
   
   ---
   
-### :javascript: About Me :
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+- :telescope: I’m working as an English Teacher and Software Engineer, contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I do my experiments on JavaScript and its endless of frameworks.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinhqua-full-stack-developer/)
 </div>
