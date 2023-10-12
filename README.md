@@ -11,4 +11,16 @@
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="Twitter Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=VinhQua&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Let's connect
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Open%20Hands.png" alt="Open Hands" width="50" height="50" />
+</h1>
+  <div align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" alt="NUX_Octodex">
+  </div>
+  
+  ---
+  
+### :javascript: About Me :
 </div>
