@@ -29,7 +29,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 - :telescope: I’m working as an English Teacher and Software Engineer, contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Leading agile team to complete various projects.
 
 - :zap: In my free time, I do my experiments on JavaScript and its endless of frameworks.
 
